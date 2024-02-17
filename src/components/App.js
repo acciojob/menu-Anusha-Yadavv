@@ -1,7 +1,6 @@
 {/* <p>Now I can render any React component on any DOM node I want using ReactDOM.render</p> */}
 // App.js
 import React, { useState } from 'react';
-import './App.css';
 import { dishesData } from './data';
 import DishList from './DishList';
 import CategoryFilter from './CategoryFilter';
